@@ -2,7 +2,8 @@ p {
 color: #cc0000;
 font-family: Arial;
 }
-div {
+
+/*div {
     height: 50px;
     width: 120px;
     border-color: #6495ed;
@@ -13,9 +14,31 @@ div {
     border-radius: 5px;
     margin: auto;
 }
+
 /*a {
     text-decoration: none;
     color: #AD07A2;
     font family: cursive;
 }*/
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 77px;
+	width: 124px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #CC0000;
+	font-family: cursive, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
  
