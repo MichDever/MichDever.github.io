@@ -41,7 +41,7 @@ a {
 
 span {
 	font-family: Impact;
-	font-weight: bold;
+	/*font-weight: bold;*/
 	font-size: 18px;
 	color: #2B9106;
 }
