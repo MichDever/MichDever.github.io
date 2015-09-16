@@ -22,7 +22,7 @@ font-family: Arial;
 }*/
 div {
 	border-radius: 5px;
-	border: 2px solid #6495ED;
+	border: 2px solid #5E06C9;
 	background-color: #F4F797;
 	height: 77px;
 	width: 240px;
@@ -38,7 +38,8 @@ a {
 }
 #mom {
 	font-family: Lucinda Console;
-	color: #5E06C9;	
+	color: #5E06C9;
+	text-decoration: none;
 }
 span {
 	font-family: Impact;
