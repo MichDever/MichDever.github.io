@@ -20,7 +20,7 @@ font-family: Arial;
     color: #AD07A2;
     font family: cursive;
 }*/
-div a {
+#button {
 	border-radius: 5px;
 	border: 2px solid #5E06C9;
 	background-color: #F4F797;
