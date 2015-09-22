@@ -1,7 +1,7 @@
 p {
 color: #4E09BD;
 font-family: Arial;
-font-size: 2em;
+font-size: 1.13em;
 
 }
 
@@ -20,6 +20,7 @@ div {
 	background-color: #E9C5FA;
 	margin: auto;
 	text-align: left;
+	font-size: 1.13em;
 }
 .movies {
 	background-color: #E9C5FA;
@@ -35,13 +36,14 @@ a {
 }
 #mom {
 	font-family: Century, Cursive;
+	font-size: 1em;
 	color: #5E06C9;
 	text-decoration: none;
 }
 span {
 	font-family: Impact;
 	/*font-weight: bold;*/
-	font-size: 18px;
+	font-size: 1.5em;
 	color: #2B9106;
 }
  
