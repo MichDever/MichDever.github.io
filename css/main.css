@@ -1,6 +1,8 @@
 p {
-color: #cc0000;
+color: #4E09BD;
 font-family: Arial;
+font-size: 2em;
+
 }
 
 /*div {
@@ -28,6 +30,7 @@ font-family: Arial;
 	width: 240px;
 	margin: auto;
 	text-align: center;
+	padding: 13px;
 }
 div {
 	background-color: #F4F797;
