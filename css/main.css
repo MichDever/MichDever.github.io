@@ -16,6 +16,7 @@ font-size: 1.13em;
 	padding: 1em;
 }
 div {
+	border: 2px solid #5E06C9;
 	border-radius: 13px;
 	background-color: #E9C5FA;
 	margin: auto;
@@ -24,7 +25,7 @@ div {
 	padding: .35em;
 }
 .movies {
-	background-color: #E9C5FA;
+	background-color: #D6FAC5;
 }
 
 #hobbies {
