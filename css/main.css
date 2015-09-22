@@ -8,8 +8,8 @@ font-size: 1.13em;
 #button {
 	border-radius: 5px;
 	border: 2px solid #5E06C9;
-	background-color: #F4F797;
-	height: 77px;
+	background-color: yellow;
+	height: 81px;
 	width: 240px;
 	margin: auto;
 	text-align: center;
@@ -23,13 +23,14 @@ div {
 	text-align: left;
 	font-size: 1.13em;
 	padding: .35em;
+	font-family: Arial, cursive;
 }
 .movies {
 	background-color: #D6FAC5;
 }
 
 #hobbies {
-	background-color: #CECDF7;
+	background-color: #C5F1FA;
 }
 a {
 	text-decoration: none;
