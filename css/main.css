@@ -13,7 +13,7 @@ font-size: 1.13em;
 	width: 240px;
 	margin: auto;
 	text-align: center;
-	padding: 13px;
+	padding: 1em;
 }
 div {
 	border-radius: 13px;
@@ -21,13 +21,14 @@ div {
 	margin: auto;
 	text-align: left;
 	font-size: 1.13em;
+	padding: .35em;
 }
 .movies {
 	background-color: #E9C5FA;
 }
 
 #hobbies {
-	background-color: CECDF7;
+	background-color: #CECDF7;
 }
 a {
 	text-decoration: none;
