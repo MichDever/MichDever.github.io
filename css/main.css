@@ -20,16 +20,20 @@ font-family: Arial;
     color: #AD07A2;
     font family: cursive;
 }*/
-div {
+div a {
 	border-radius: 5px;
 	border: 2px solid #5E06C9;
 	background-color: #F4F797;
 	height: 77px;
 	width: 240px;
 	margin: auto;
-	/*text-align: center;*/
+	text-align: center;
 }
-
+div {
+	background-color: #F4F797;
+	margin: auto;
+	text-align: left;
+}
 .movies {
 	background-color: #E9C5FA;
 }
