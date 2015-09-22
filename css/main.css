@@ -30,7 +30,13 @@ div {
 	text-align: center;
 }
 
+.movies {
+	background-color: #E9C5FA;
+}
 
+#hobbies {
+	background-color: CECDF7;
+}
 a {
 	text-decoration: none;
 	color: #CC0000;
